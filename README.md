@@ -2,9 +2,6 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Mohit%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 # Hi, I'm Mohit👋
 
-🎓 **2nd Year B.Tech CSE Student**  
-💻 Learning **MERN Stack** & practicing **Data Structures & Algorithms**
-
 ---
 ## 📊 GitHub Stats  
 
